@@ -2,7 +2,7 @@
 
 This repository contains the code and data processing pipelines for the paper:
 
-**"An Enhanced Multi-dimensional DTW Similarity Measurement Method for Optimal Source Building Selection in Transfer Learning"**
+**"A Dynamic Time Warping-Enhanced Transfer Learning Framework for Cooling Load Prediction in Data-Scarce Buildings: A Multi-Building Case Study"**
 
 > **Status: Code Release Pending Acceptance**
 >
