@@ -130,7 +130,7 @@ python scripts/dtw_similarity.py
 python models/lightgbm_models.py
 python models/lstm_models.py
 
-Citation
+##Citation
 If you use this work in your research, please cite:
   @article{liu2025dtwtransfer,
   title={A Dynamic Time Warping-Enhanced Transfer Learning Framework for Cooling Load Prediction in Data-Scarce Buildings: A Multi-Building Case Study},
@@ -139,12 +139,12 @@ If you use this work in your research, please cite:
   year={2025}
 }
 
-Contact
+##Contact
 For questions about the paper: Yongbao Chen (chenyongbao@usst.edu.cn)
 For questions about the code: Jiakai Liu (1602252955@qq.com)
 Repository updates will be provided upon manuscript acceptance
 
-Reproducibility Commitment
+##Reproducibility Commitment
 We are committed to open science and will provide:
 1.Complete implementation of all experiments described in the paper
 2.Detailed documentation and step-by-step instructions
