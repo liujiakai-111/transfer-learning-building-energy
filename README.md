@@ -14,8 +14,6 @@ Jiakai Liu, Yongbao Chen, Zhe Chen
 Energy and Buildings, Volume 357, 15 April 2026, 117148
 DOI: 10.1016/j.enbuild.2026.117148
 
-**Expected release timeline**: Within 2 weeks after manuscript acceptance.
-
 ## Paper Information
 
 - **Title**: A Dynamic Time Warping-Enhanced Transfer Learning Framework for Cooling Load Prediction in Data-Scarce Buildings: A Multi-Building Case Study
