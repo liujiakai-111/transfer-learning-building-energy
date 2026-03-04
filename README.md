@@ -6,7 +6,13 @@ This repository contains the implementation code and data processing pipelines f
 
 ## Current Status
 
-**Note**: The complete source code is currently being prepared for public release and will be made available upon the final acceptance of the manuscript. This repository is established in accordance with reproducibility and open science guidelines.
+**Note**: The complete source code and data processing pipelines for this paper are publicly available in this repository. The code has been released to support reproducibility and open science in building energy research.
+
+Paper:
+A dynamic time warping-enhanced transfer learning framework for cooling load prediction in data-scarce buildings: a multi-building case study
+Jiakai Liu, Yongbao Chen, Zhe Chen
+Energy and Buildings, Volume 357, 15 April 2026, 117148
+DOI: 10.1016/j.enbuild.2026.117148
 
 **Expected release timeline**: Within 2 weeks after manuscript acceptance.
 
@@ -132,11 +138,15 @@ python models/lstm_models.py
 ```
 ## Citation
 If you use this work in your research, please cite:
-@article{liu2025dtwtransfer,
-  title={A Dynamic Time Warping-Enhanced Transfer Learning Framework for Cooling Load Prediction in Data-Scarce Buildings: A Multi-Building Case Study},
-  author={Liu, Jiakai and Chen, Yongbao and Chen, Zhe},
-  journal={Submitted for publication},
-  year={2025}
+@article{Liu2026DTW,
+  title = {A dynamic time warping-enhanced transfer learning framework for cooling load prediction in data-scarce buildings: a multi-building case study},
+  author = {Liu, Jiakai and Chen, Yongbao and Chen, Zhe},
+  journal = {Energy and Buildings},
+  volume = {357},
+  pages = {117148},
+  year = {2026},
+  doi = {10.1016/j.enbuild.2026.117148},
+  url = {https://doi.org/10.1016/j.enbuild.2026.117148}
 }
 
 ## Contact
