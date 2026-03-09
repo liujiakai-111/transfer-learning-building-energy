@@ -12,7 +12,7 @@ Paper:
 A dynamic time warping-enhanced transfer learning framework for cooling load prediction in data-scarce buildings: a multi-building case study
 Jiakai Liu, Yongbao Chen, Zhe Chen
 Energy and Buildings, Volume 357, 15 April 2026, 117148
-DOI: 10.1016/j.enbuild.2026.117148
+- **DOI**: 10.1016/j.enbuild.2026.117148
 
 ## Paper Information
 
